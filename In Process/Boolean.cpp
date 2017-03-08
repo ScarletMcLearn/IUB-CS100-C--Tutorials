@@ -184,32 +184,32 @@ int main()
 
 
   //Phase 8
-    cout<<"Please enter a number: ";
-
-    int your_number_variable;
-
-    cin>> your_number_variable;
-
-
-    if (your_number_variable % 2 == 0 || your_number_variable % 7 == 0)
-    {
-        cout<<"\nYour number is divisible by either 2 or 7. " <<endl;
-
-        cout<<"\nNow lets check which one it is... " << endl;
-
-        if (your_number_variable % 2 == 0)
-        {
-            cout<<"\nYour number was divisible by 2. " <<endl;
-        }
-        else if (your_number_variable % 7 == 0)
-        {
-            cout<<"\nYour number was divisible by 7. " <<endl;
-        }
-    }
-    else
-    {
-        cout<<"\nYour number is not divisible by either 2 nor 7. " <<endl;
-    }
+//    cout<<"Please enter a number: ";
+//
+//    int your_number_variable;
+//
+//    cin>> your_number_variable;
+//
+//
+//    if (your_number_variable % 2 == 0 || your_number_variable % 7 == 0)
+//    {
+//        cout<<"\nYour number is divisible by either 2 or 7. " <<endl;
+//
+//        cout<<"\nNow lets check which one it is... " << endl;
+//
+//        if (your_number_variable % 2 == 0)
+//        {
+//            cout<<"\nYour number was divisible by 2. " <<endl;
+//        }
+//        else if (your_number_variable % 7 == 0)
+//        {
+//            cout<<"\nYour number was divisible by 7. " <<endl;
+//        }
+//    }
+//    else
+//    {
+//        cout<<"\nYour number is not divisible by either 2 nor 7. " <<endl;
+//    }
 
 
 
